@@ -1,0 +1,9 @@
+# ninja log v6
+34	233	7801051315345596	gestion-stock-restaurantes_autogen/timestamp	20aa9eab548dc910
+34	233	7801051315345596	C:/Users/julia/Documents/UTN FRGP/Programacion 2/gestion-stock-restaurantes/gestion-stock-restaurantes/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/gestion-stock-restaurantes_autogen/timestamp	20aa9eab548dc910
+34	233	7801051315345596	gestion-stock-restaurantes_autogen/mocs_compilation.cpp	20aa9eab548dc910
+34	233	7801051315345596	C:/Users/julia/Documents/UTN FRGP/Programacion 2/gestion-stock-restaurantes/gestion-stock-restaurantes/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/gestion-stock-restaurantes_autogen/mocs_compilation.cpp	20aa9eab548dc910
+1850	4279	7800999591199900	CMakeFiles/gestion-stock-restaurantes.dir/gestion-stock-restaurantes_autogen/mocs_compilation.cpp.obj	a05486e04bf6d10d
+234	2371	7801051317345815	CMakeFiles/gestion-stock-restaurantes.dir/mainwindow.cpp.obj	f35324b735d3f880
+259	2313	7801015038665171	CMakeFiles/gestion-stock-restaurantes.dir/main.cpp.obj	5a4010cfbb4bdd62
+2371	2555	7801051338712474	gestion-stock-restaurantes.exe	a24ba133d096baf7

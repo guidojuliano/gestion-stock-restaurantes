@@ -23,6 +23,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(gestion-stock-restaurantes
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        producto.h producto.cpp
+        menu.h menu.cpp
+        stockmanager.h stockmanager.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET gestion-stock-restaurantes APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

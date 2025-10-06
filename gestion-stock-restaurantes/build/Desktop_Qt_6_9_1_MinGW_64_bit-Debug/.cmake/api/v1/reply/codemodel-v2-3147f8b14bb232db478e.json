@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2061632a1fb34d94ce7c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gestion-stock-restaurantes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gestion-stock-restaurantes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestion-stock-restaurantes-Debug-959c03ad51b5613b5410.json",
+					"name" : "gestion-stock-restaurantes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gestion-stock-restaurantes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestion-stock-restaurantes_autogen-Debug-0932795de52b59197cb7.json",
+					"name" : "gestion-stock-restaurantes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "gestion-stock-restaurantes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gestion-stock-restaurantes_autogen_timestamp_deps-Debug-c1543420083971648a57.json",
+					"name" : "gestion-stock-restaurantes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/julia/Documents/UTN FRGP/Programacion 2/gestion-stock-restaurantes/gestion-stock-restaurantes/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/julia/Documents/UTN FRGP/Programacion 2/gestion-stock-restaurantes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
